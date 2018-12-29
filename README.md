@@ -21,4 +21,4 @@ Given below is the comparison made between performing matching on the whole subg
  - Same constructed CPI can be used in future and it will definitely reduce the time for subgraph matching as compared to the later one.
 
 Average time comparison with different protein size - 
-![alt text](https://github.com/kushg18/neo4j-database-implementation-system/blob/master/screenshots/neo4jIDE/graph.png)
+![alt text](https://github.com/kushg18/neo4j-efficient-subgraph-matching/blob/master/screenshot/comparison.png)
