@@ -3,7 +3,7 @@ Neo4j Efficient Subgraph Matching using CPI construction
 
 ### About ###
 -----------------------------
-This project is about learning and implementing algorithm to perform CPI construction and also perform efficient subgraph matching using the CPI. This postpones the cartesian product that takes place while searching for nodes with it's relationships in the huge target graph by reducing this target graph based on the requirements of the given subgraph. 
+This project is about learning and implementing algorithm to perform ***CPI construction*** and also perform efficient subgraph matching using the CPI. This postpones the cartesian product that takes place while searching for nodes with it's relationships in the huge target graph by reducing the target graph based on the requirements of the given subgraph. 
 
 ### Technology Stack ### 
 -----------------------------
@@ -21,4 +21,5 @@ Given below is the comparison made between performing matching on the whole subg
  - Same constructed CPI can be used in future and it will definitely reduce the time for subgraph matching as compared to the later one.
 
 Average time comparison with different protein size - 
+
 ![alt text](https://github.com/kushg18/neo4j-efficient-subgraph-matching/blob/master/screenshot/comparison.png)
